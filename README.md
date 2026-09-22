@@ -1,5 +1,3 @@
 # Maria Teresa Semijoias — GitHub Pages
 
-Esta pasta é a versão estática pronta para publicação. Publique todo o conteúdo de `github-pages/` na branch/configuração do GitHub Pages.
-
-O arquivo `404.html` mantém as páginas individuais de produto funcionando quando acessadas diretamente.
+Publique todo o conteúdo desta pasta no GitHub Pages. O pacote inclui os assets locais, a galeria de produtos, paginação e `404.html` para rotas individuais.
